@@ -216,7 +216,7 @@ font-size:25px;
 </tbody>
 </table>
 	
-	<img arc="profil_f.jpg"/>
+	<img arc="profil_f.jpg">
 <h1 id="nagłówek"><strong>1F</strong> - rozszerzone treści nauczania<strong><em>  z geografii, biologii i języka angielskiego</em></strong></h1>
 <div id="tekst">
 <h2 id="x"><strong>Powinieneś wybrać klasę <u>sportową,</u> jeśli: </strong> </br></h2>
